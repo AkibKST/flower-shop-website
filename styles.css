@@ -130,3 +130,23 @@ nav a {
 .hot-deal-p-tag{
     padding-bottom: 15px;
 }
+
+.case-sensetive{
+    color: #E55473;
+}
+/* footter section starts here */
+
+.footer-section{
+    background-color:black;
+    max-width: 806px;
+    max-height: 500px;
+    color: azure;
+    padding: 40px 120px;
+    text-align: center;
+}
+.fotter-paragraph{
+    padding: 10px;
+}
+.last-of-footer{
+    font-size: x-small;
+}
