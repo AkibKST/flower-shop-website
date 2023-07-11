@@ -26,6 +26,7 @@ nav {
     background-color: black;
     justify-content: space-between;
     align-items: center;
+    padding: 0 100px;
 }
 
 .nav-title-1 {
@@ -58,4 +59,27 @@ nav li {
 
 nav a {
     text-decoration: none;
+}
+/* header related styles */
+
+.header-container{
+    background-color: #f6b6c4;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 30px 30px 30px 30px;
+    
+}
+.header-banner-slogan{
+    padding: 15px;
+}
+.title-of-banner{
+    padding-bottom: 10px;
+}
+.header-paragraph{
+    padding-bottom: 15px;
+}
+
+.header-banner-picture{
+    
 }
