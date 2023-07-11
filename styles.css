@@ -3,3 +3,58 @@
     padding: 0px;
 }
 
+/* common shared styles */
+body {
+    font-family: Lato;
+}
+
+.btn-primary {
+    border-radius: 8px;
+    background: #E55473;
+    border: 0;
+    display: inline-flex;
+    padding: 15px 30px;
+    align-items: flex-start;
+    gap: 10px;
+    color: azure;
+}
+
+/* nav related styles */
+nav {
+    display: flex;
+    font-family: Lato;
+    background-color: black;
+    justify-content: space-between;
+}
+
+.nav-title-1 {
+    color: #E55473;
+    font-family: Lato;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.nav-title-2 {
+    color: azure;
+    font-family: Lato;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+nav>ul {
+    display: flex;
+    color: azure;
+}
+
+nav li {
+    list-style: none;
+    margin-right: 50px;
+}
+
+nav a {
+    text-decoration: none;
+}
