@@ -25,6 +25,7 @@ nav {
     font-family: Lato;
     background-color: black;
     justify-content: space-between;
+    align-items: center;
 }
 
 .nav-title-1 {
