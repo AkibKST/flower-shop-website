@@ -139,8 +139,22 @@ nav a {
     text-align: center;
     padding: 30px 150px;
 }
+.section-title{
+    padding: 15px;
+}
 .section-description{
     font-size: 10px;
+    padding: 10px;
+}
+.flower-container{
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+    position:relative;
+    right: 105px;
+}
+.flower{
+    padding: 15px;
 }
 
 /* Get the latest deal section */
