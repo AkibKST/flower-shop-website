@@ -134,6 +134,11 @@ nav a {
 .case-sensetive{
     color: #E55473;
 }
+/* Get the latest deal section */
+
+.get-latest-deal{
+    background-image: url("./Asset/Rectangle\ 9.png");
+}
 /* footter section starts here */
 
 .footer-section{
