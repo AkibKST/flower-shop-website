@@ -138,6 +138,22 @@ nav a {
 
 .get-latest-deal{
     background-image: url("./Asset/Rectangle\ 9.png");
+    border: 10px;
+    max-width: 1400px;
+    max-height: 1050px;
+    background-position: fixed;
+    margin: 50px;
+    background-size: cover;
+    text-align: center;
+    padding: 30px 100px;
+}
+#input{
+    width: 260px;
+    height: 40px;
+}
+
+.samll-text{
+    font-size: 10px;
 }
 /* footter section starts here */
 
