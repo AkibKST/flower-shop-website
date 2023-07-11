@@ -134,6 +134,15 @@ nav a {
 .case-sensetive{
     color: #E55473;
 }
+/* Instagram section starts */
+.instagram-section{
+    text-align: center;
+    padding: 30px 150px;
+}
+.section-description{
+    font-size: 10px;
+}
+
 /* Get the latest deal section */
 
 .get-latest-deal{
